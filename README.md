@@ -1,2 +1,1 @@
-# jen-stack
-jen-stack
+# README
